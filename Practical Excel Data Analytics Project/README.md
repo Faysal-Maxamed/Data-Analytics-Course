@@ -1,5 +1,7 @@
 # Customer Demographic Data Analysis
 
+![Customer Demographic Dashboard](Screenshot/1.png)
+
 A professional data analytics project focused on analyzing customer demographic information to uncover patterns, trends, and actionable business insights. This project demonstrates the use of Excel for data cleaning, transformation, exploratory analysis, and reporting.
 
 ## Project Overview
